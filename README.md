@@ -18,3 +18,7 @@ Rapport de Projet ERP Odoo
 4. Test et Déploiement
 • Test : Réalisé sur GitHub via la documentation des flux métier.
 • Déploiement : Solution accessible en ligne (Cloud), utilisable partout via une interface web.
+
+
+Voici le lien d'Odoo
+https://telecom7.odoo.com/odoo
